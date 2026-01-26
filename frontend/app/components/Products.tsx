@@ -49,6 +49,14 @@ const Products = () => {
       image: '/images/plagat.svg',
       scale: 'scale-115',
       slug: 'plagaty'
+    },
+    {
+      title: 'Brožúry',
+      price: 'od 0,80 €',
+      category: 'MÁLOFORMÁTOVÁ TLAČ',
+      image: '/images/brozura.svg',
+      scale: 'scale-115',
+      slug: 'brozury'
     }
   ];
 

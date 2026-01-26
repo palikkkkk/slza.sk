@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 820 700">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #f4f6f8;
+        isolation: isolate;
+        opacity: .7;
+      }
+
+      .st2 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" x="151.4" y="117.8" width="516.1" height="463.3"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" x="96.1" y="117.8" width="626.7" height="463.3"/>
+    </clipPath>
+  </defs>
+  <g id="BACKGROUND">
+    <rect class="st1" y="0" width="820" height="700"/>
+  </g>
+  <g class="st3">
+    <g class="st2">
+      <image width="5000" height="3696" transform="translate(96.1 117.8) scale(.1)" xlink:href="brozury-1.png"/>
+    </g>
+  </g>
+</svg>
